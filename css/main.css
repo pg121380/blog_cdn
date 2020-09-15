@@ -3707,7 +3707,7 @@
 		-webkit-justify-content: center;
 		-ms-justify-content: center;
 		justify-content: center;
-		background-image: url("http://cdn.liyf.pub/banner.jpg");/*../../images/banner.jpg*/
+		background-image: url("https://cdn.jsdelivr.net/gh/pg121380/blog_cdn/image/banner.jpg");/*../../images/banner.jpg*/
 		background-position: center;
 		background-size: cover;
 		background-repeat: no-repeat;
